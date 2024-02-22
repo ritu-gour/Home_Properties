@@ -1,0 +1,147 @@
+
+.imglogo {
+    width: 100px;
+    align-items: center;
+    margin: 2px 0px 0px 0px;
+    float: right;
+  }
+ #basic-navbar-nav{
+    float: right;
+ }
+ .n1{
+    padding: 8px 0px 8px 0px;
+    color:black;
+ }
+ .n1:hover{
+    padding: 8px 0px 8px 0px;
+    color: #ef632f;
+ }
+@media screen and (max-width: 1080px) {
+
+    
+    .navbar-collapse {
+        /* flex-basis: 100%;
+        flex-grow: 1;
+        align-items: center; */
+        z-index: 10;
+       background-color: #ffffff !important;
+        color: #ffffff;
+        margin-top: 10px;
+       
+    }
+    
+    .navbar-light .navbar-toggler {
+        color: rgb(255 255 255) !important;
+        border-color: rgb(255 255 255) !important;
+        
+    }
+    
+}
+.me-auto {
+    /* margin-right: auto!important; */
+   
+    /* margin-left: 70px; */
+    margin: 0px -180px 0px 180px !important;
+    flex: 0.95 !important;
+}
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: right;
+    z-index: 10;
+ 
+   /* background-color: #ffffff; */
+    /* color: #ffffff;  */
+   
+}
+.icon4{
+    font-size: 20px;
+  }
+.btn9{
+  
+    padding: 8px 10px 8px 10px;
+    background-color: transparent;
+    border: 2px solid #ef632f;
+    color: #ef632f !important;
+    border-radius: 10px;
+    font-weight: 600 !important;
+}
+.btn9:hover{
+    font-weight: 600 !important;
+    padding: 8px 10px 8px 10px;
+    
+    background-color: #1a2563;
+    border: 2px solid #1a2563;
+    color:#fff !important;
+    border-radius: 10px;
+}
+a{
+    text-decoration: none !important;
+}
+.btn900{
+    font-weight: 600 !important;
+    padding: 8px 15px 8px 15px !important;
+    background-color: #1a2563;
+    
+    color: #ffffff !important;
+    border-radius: 10px;
+}
+
+.btn900:hover{
+    font-weight: 600 !important;
+    padding: 8px 15px 8px 15px !important;
+    background-color: #ef632f;
+    
+    color: #ffffff !important;
+    border-radius: 10px;
+}
+
+
+@media (max-width: 480px) {
+    .fixed-top {
+        position: relative;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+    .me-auto {
+        
+        margin: 0px 0px 0px 0px !important;
+        flex: 0.95 1 !important;
+    }
+    .btn9 {
+       
+        width: 200px !important;
+        margin: 10px !important;
+    }
+    .btn9 :hover{
+       
+        width: 200px !important;
+        margin: 10px !important;
+    }
+    .btn900 {
+       
+       
+        width: 100px !important;
+        margin: 0px 0px 10px 20px !important;
+    }
+    .btn900:hover {
+       
+       
+        width: 100px !important;
+        margin: 0px 0px 10px 20px !important;
+    }
+    
+    
+  }
+
+
+
+
+
+
+
+
+
+

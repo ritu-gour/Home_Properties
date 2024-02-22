@@ -1,0 +1,12 @@
+.padding90{
+    margin: 100px 10px 80px 10px;
+    
+}
+
+@media (max-width: 480px) {
+    
+    .padding90{
+        margin: -90px 10px 10px 10px !important;
+       
+    }
+}

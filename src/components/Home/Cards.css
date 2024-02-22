@@ -1,0 +1,92 @@
+
+.price13{
+    text-align: justify !important;
+}
+.c445{
+   border-bottom: 4px solid #ee6430;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   border-left: none;
+   border-right: none;
+   border-top: none;
+}
+
+.c445:hover{
+    border-bottom: 4px solid #1a2563;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: #e8f7fe;
+ }
+ 
+
+
+.m89{
+    width: 34% !important;
+   height: 25% !important;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.testimotionals5 .card5 .content5 {
+    z-index: 2;
+    position: relative;
+}
+
+.testimotionals5 .card5:hover .layer5 {
+    top: 0;
+}
+
+.testimotionals5 .card5 .content5 p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #585858;
+
+}
+
+.testimotionals5 .card5:hover .content5 p {
+    color: white;
+    position: relative
+}
+
+.testimotionals5 .card5:hover .content5 #myBtn2 {
+    color: white;
+    position: relative
+}
+
+.testimotionals5 .card5 .content5 .image1 {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 4px solid white;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+
+}
+
+.testimotionals5 .card5 .content5 .details5 h2 {
+    font-size: 18px;
+    color: white;
+}
+
+.testimotionals5 .card5 .content5 .details5 h2 {
+    font-size: 18px;
+    color: #00263B;
+    transition: 0.5s;
+    margin-top: 16px;
+    font-weight: 600;
+}
+
+.testimotionals5 .card5:hover .content5 .details5 h2 {
+    color: white;
+    position: relative
+}
+
+
+
+.cc3 {
+    font-size: 16px;
+    font-family: 'maven Pro';
+    text-align: justify !important;
+}

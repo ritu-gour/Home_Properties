@@ -1,0 +1,110 @@
+
+.testimotionals6 {
+
+    display: inline-block;
+
+}
+
+
+.testimotionals6 .card6 {
+
+   
+    width: 340px;
+    margin: 0 auto;
+    background: white;
+    padding: 5px;
+margin: 10px;
+margin-top: 40px;
+    box-sizing: border-box;
+    /* text-align: center; */
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 0px;
+    height: 460px;
+}
+.testimotionals6 .card6:hover {
+
+   
+    width: 340px;
+    margin: 0 auto;
+    background: white;
+    padding: 5px;
+margin: 10px;
+margin-top: 40px;
+    box-sizing: border-box;
+    /* text-align: center; */
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+    border-radius: 0px;
+    height: 460px;
+    border-bottom: 3px solid #ee6430;
+}
+
+/* .testimotionals6 .card6 .layer6 {
+    z-index: 1;
+    position: absolute;
+    top: calc(100% - 4px);
+    height: 100%;
+    width: 100%;
+    left: 0;
+    background: #f36822;
+    transition: 0.6s;
+
+} */
+
+
+.testimotionals6 .card6:hover .layer6 {
+    top: 0;
+}
+
+
+
+
+
+
+
+
+.details6{
+    font-size: 15px;
+    color: #00263B;
+    
+    margin-top: 30px;
+    font-weight: 600;
+    padding: 0px 30px 0px 5px;
+}
+
+
+
+
+.cc3 {
+    font-size: 15px;
+    font-family: 'maven Pro';
+    padding: 0px 30px 0px 1px;
+}
+
+.a22{
+   color: #ee6430; 
+   padding: 0px 0px 0px 1px;
+   
+}
+.font56{
+    color: #00263B;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 90px 20px 0px 10px;
+}
+.a22:hover{
+    color: #00263B;
+    padding: 0px 0px 0px 1px;  
+ }
+
+.div76{
+ margin: 40px 0px 0px 0px;   
+}
+.card47{
+    margin: 20px 100px 0px 100px;
+}
+@media (max-width: 480px) {
+    .card47{
+        margin: 20px 160px 0px 160px;
+    }
+
+}

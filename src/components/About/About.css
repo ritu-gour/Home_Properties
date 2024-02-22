@@ -1,0 +1,242 @@
+.contactfont{
+    font-size: 60px ;
+    text-align: center;
+    font-weight: 600;
+    padding: 160px 0px 120px;
+    color: white;
+}
+
+.overlay {
+    background: #000000a3;
+}
+.founder2{
+  margin: 120px 0px 10px 0px;
+ 
+
+}
+.santos{
+    font-size: 35px;
+    color: #1a2563;
+    margin: 10px 0px 30px 0px;
+    font-weight: 600;
+   
+}
+
+.fontfounder{
+    font-size: 18px;
+    margin: 0px 100px 30px 0px;
+
+}
+.foundersec{
+    
+        position: sticky;
+        width: 100%;
+        height: 460px;
+        top: 130px;
+
+    
+    
+}
+.icon2{
+    
+  
+    color:white;
+    font-size: 28px;}
+.btn55{
+    padding: 8px 18px 8px 18px;
+    background-color: #ee6430;
+    color:white;
+    font-size: 20px;
+
+}
+.btn55:hover{
+    padding: 8px 18px 8px 18px;
+    background-color: #1a2563;;
+    color:white;
+    font-size: 20px;
+
+}
+
+.founder22{
+    background-color: #1a2563;
+    padding: 55px 0px 55px 0px;
+
+}
+
+.fontp{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+  
+}
+.founder24{
+    margin: 120px 0px 10px 0px;
+   
+  
+  }
+  .fontfounder1{
+    font-size: 18px;
+    margin: 0px 10px 30px 0px;
+    text-align: justify;
+
+}
+.whoare{
+    font-size: 35px;
+    color: #1a2563;
+    margin: 10px 0px 30px 0px;
+    font-weight:800; 
+}
+.imgsect1{
+    margin: 0px -10px 0px 60px;
+
+
+}
+.fontfounder22{
+    font-size: 18px;
+    margin: -20px 10px 30px 0px;
+    text-align: justify;
+
+}
+.imgo{
+    float: right;
+   
+}
+.founderp25{
+
+    margin: 0px 0px 0px 40px;
+}
+.fontfounder222{
+    font-size: 27px;
+    color:#1a2563;
+}
+.founderp256{
+    margin: 30px 0px 90px 60px;
+}
+.overlay1{
+background-color: #f9fbfd66;
+padding: 80px 200px 80px 50px;
+}
+
+
+
+.bg788{
+    padding:100px 0px 100px 0px;
+   
+}
+.test{
+    font-size: 45px;
+    margin: 0px 0px 40px 0px;
+    text-align: center;
+    color:#1a2563;
+   
+}
+@media (max-width: 480px) {
+    .contactfont {
+        font-size: 40px !important;
+      
+        padding: 110px 0px 100px 0px !important;
+        color: white;
+    }
+    .founder23{
+        padding: 0px 10px 0px 10px;
+    }
+    .vbb {
+        height: 407px !important;
+    }
+    img.ms-3 {
+        width: 100% !important;
+        padding: 0px !important;
+        margin: 0px 0px 0px 0px !important;
+        height: 370px !important;
+    }
+    .santos {
+        font-size: 30px;
+        color: #1a2563;
+        margin: 90px 0px 30px 0px !important;
+        font-weight: 600;
+        text-align: center;
+    }
+    .fontfounder {
+        font-size: 18px;
+        margin: 0px 10px 30px 10px;
+        text-align: center;
+    }
+    .btn55 {
+       margin: 0px 0px 50px 0px !important;
+        width: 100% !important;
+    }
+    .fontfounder1 {
+        font-size: 16px !important;
+        margin: 0px 10px 30px 0px;
+        text-align: justify;
+    }
+    .foundersec {
+        position: relative !important;
+        width: 100%;
+        height: 500px !important;
+        top: 11px;
+    
+    }
+    
+    .counter1,.counter2,.counter3,.counter4,.counter5,.counter6{
+        font-size: 50px !important;
+        
+    }
+    img.ms-3.nm {
+        margin: -130px 0px 0px 0px !important;
+    }
+    img.ms-3.bkh {
+        padding: 0px !important;
+        margin: 50px 0px 0px 0px !important;
+        height: 300px !important;
+    }
+    .imgsect1 {
+        margin: 0px 0px 0px 0px !important;
+    }
+    .fontfounder22 {
+        font-size: 16px;
+        margin: -20px 10px 30px 10px !important;
+        text-align: justify;
+        padding: 0px !important;
+    }
+
+img.imgo.mb-5 {
+    width: 200px !important;
+}
+img.ms- {
+    
+    height: 100% !important;
+    width: 100% !important;
+}
+.overlay1 {
+    background-color: #f9fbfd66;
+    padding: 80px 10px 80px 10px !important;
+}
+.founderp256 {
+    margin: 30px 10px 90px 10px !important;
+}
+.fontfounder222 {
+    font-size: 23px;
+    color: #1a2563;
+    margin: 0px 0px 40px 0px !important;
+}
+img.imk {
+    width: 50px !important;
+    margin: 0px 0px 0px 0px !important;
+}
+.test {
+    font-size: 35
+    px !important;
+    margin: 0px 0px 40px 0px;
+    text-align: center;
+    color: #1a2563;
+}
+img.d-block.w-100.r1.center {
+    width: 100px !important;
+    height: 100px !important;
+}
+
+
+}
+

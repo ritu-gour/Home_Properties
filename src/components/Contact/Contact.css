@@ -1,0 +1,85 @@
+.contactfont{
+    font-size: 60px ;
+    text-align: center;
+    font-weight: 600;
+    padding: 160px 0px 120px;
+    color: white;
+}
+
+.form1{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    padding: 40px;
+    border-radius: 10px;
+    margin: 90px 0px 0px 0px;
+}
+.btn5{
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #1a2563;
+    padding: 9px 16px 9px 16px;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+}
+.overlay {
+    background: #000000a3;
+}
+.btn5:hover{
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #ee6430;
+    padding: 9px 16px 9px 16px;
+    font-size: 18px;
+    cursor: pointer;
+    text-align: center;
+}
+.get1{
+    color: #1a2563;
+}
+.info1{
+    color: #1a2563;
+    font-size: 40px !important;
+   
+    margin: 0px 0px 30px 0px;
+}
+.details1{
+    margin: 90px 0px 0px 0px;
+}
+
+.fab{
+    color: #1a2563;
+    font-size: 30px !important;
+
+}
+.num1{
+
+    color: #1a2563;
+    font-size: 20px !important;
+    font-weight: 400;
+}
+.fab:hover{
+    color: #ee6430;
+    font-size: 30px !important;
+}
+.num1:hover{
+
+    color: #ee6430;
+    font-size: 20px !important;
+    font-weight: 400;
+}
+@media (max-width: 480px) {
+    
+    .vbb.contacts {
+       
+        height: 487px !important;
+    }
+    .bcv.container {
+        margin: -210px 0px 0px 0px !important;
+    }
+    .form1.fo {
+        margin: 40px 0px 0px 0px !important;
+    }
+    
+}
